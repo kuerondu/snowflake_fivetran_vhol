@@ -1,7 +1,10 @@
 packages:
 
   - package: fivetran/google_ads_source
-    version: 0.1.0
+    version: 0.2.1
 
   - package: fivetran/google_ads
-    version: 0.1.0
+    version: 0.2.1
+
+  - package: fishtown-analytics/codegen
+    version: 0.3.1
